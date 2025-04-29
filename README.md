@@ -4,7 +4,7 @@ A comprehensive Power BI dashboard for cybersecurity analysis, enabling security
 
 ## 📊 Project Overview
 
-This repository contains Power BI dashboards and supporting assets designed to visualize and analyze key cybersecurity metrics. The dashboard leverages data from various security logs  to identify devices and systems affected, number of infected files and types of attcks, and assess risk exposure and vulnerabilites in an organization.
+This repository contains Power BI dashboards and supporting assets designed to visualize and analyze key cybersecurity metrics. The dashboard leverages data from various security logs  to identify devices and systems affected, number of infected files and types of attacks, and assess risk exposure and vulnerabilities in an organization.
 
 ## 🚀 Features
 
