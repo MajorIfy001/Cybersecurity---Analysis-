@@ -27,7 +27,7 @@ This repository contains Power BI dashboards and supporting assets designed to v
 - Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
 - Step 4 : It was further cross-examined and it was observed that  in none of the columns; errors & empty values were present.
 - Step 5 : The model view was used to explore the connection amoongst the various datasets for analysis.
--Step 6 : Varoius measures were created using DAX expressions to aid analysis such as "Device ID", "Infected files", "Affected sytem", "Ports", "Attack types", "Protocols".
+- Step 6 : Varoius measures were created using DAX expressions to aid analysis such as "Device ID", "Infected files", "Affected sytem", "Ports", "Attack types", "Protocols".
 - Step  7: In the report view, under the view tab, theme was selected.
 - Step 8 : Multiple card visuals were added to the canvas repersenting the measures created in step 6.
 - Step 9 : Page 1 of the dashboard shows an overview of the distribution of the infected files and attack types while page 2 shows an overview of the severity distribution
